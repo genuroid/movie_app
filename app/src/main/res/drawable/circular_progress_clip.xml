@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clipOrientation="vertical"
+    android:gravity="center">
+
+    <shape android:shape="ring"
+        android:innerRadiusRatio="3.7"
+        android:thickness="5dp">
+        <solid android:color="#4CAF50"/>
+    </shape>
+
+</clip>
+
